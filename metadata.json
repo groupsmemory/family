@@ -1,0 +1,6 @@
+{
+  "name": "PKS Pamekasan Route Metrics",
+  "description": "Next.js application for PKS Pamekasan routing metrics with secure IP extraction and Redis rate limiting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
